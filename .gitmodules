@@ -1,0 +1,6 @@
+[submodule "3rd/sdl2"]
+	path = 3rd/sdl2
+	url = https://github.com/libsdl-org/SDL.git
+[submodule "3rd/gl3w"]
+	path = 3rd/gl3w
+	url = https://github.com/skaslev/gl3w.git
