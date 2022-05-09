@@ -8,6 +8,6 @@ include(compiler_conf)
 include(building_output)
 
 add_subdirectory(3rd/sdl2)
-add_subdirectory(3rd/glew/build/cmake)
+add_subdirectory(3rd/gl3w)
 
 add_subdirectory(source)
